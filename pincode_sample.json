@@ -1,42 +1,44 @@
 [
   {
-    "400067": {
-      "location_l1": "1",
-      "location_l2": "2",
-      "location_l3": "3",
-      "location_l4": "4"
-    }
+    "Dest Pin Code": 400067,
+    "Source L1 TAT": 1,
+    "Source L2 TAT": 2,
+    "Source L3 TAT": 3,
+    "Source L4 TAT": 4
   },
   {
-    "321001": {
-      "location_l1": "3",
-      "location_l2": "4",
-      "location_l3": "3",
-      "location_l4": "5"
-    }
+    "Dest Pin Code": 321001,
+    "Source L1 TAT": 3,
+    "Source L2 TAT": 4,
+    "Source L3 TAT": 3,
+    "Source L4 TAT": 5
   },
   {
-    "410206": {
-      "location_l1": "1",
-      "location_l2": "3",
-      "location_l3": "1",
-      "location_l4": "3"
-    }
+    "Dest Pin Code": 410206,
+    "Source L1 TAT": 1,
+    "Source L2 TAT": 3,
+    "Source L3 TAT": 1,
+    "Source L4 TAT": 3
   },
   {
-    "414205": {
-      "location_l1": "3",
-      "location_l2": "3",
-      "location_l3": "2",
-      "location_l4": "5"
-    }
+    "Dest Pin Code": 414205,
+    "Source L1 TAT": 3,
+    "Source L2 TAT": 3,
+    "Source L3 TAT": 2,
+    "Source L4 TAT": 5
   },
   {
-    "413249": {
-      "location_l1": "2",
-      "location_l2": "4",
-      "location_l3": "4",
-      "location_l4": "3"
-    }
+    "Dest Pin Code": 413249,
+    "Source L1 TAT": 2,
+    "Source L2 TAT": 4,
+    "Source L3 TAT": 4,
+    "Source L4 TAT": 3
+  },
+  {
+    "Dest Pin Code": 400013,
+    "Source L1 TAT": 0,
+    "Source L2 TAT": 2,
+    "Source L3 TAT": 3,
+    "Source L4 TAT": 2
   }
 ]
