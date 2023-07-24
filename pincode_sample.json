@@ -1,0 +1,42 @@
+[
+  {
+    "400067": {
+      "location_l1": "1",
+      "location_l2": "2",
+      "location_l3": "3",
+      "location_l4": "4"
+    }
+  },
+  {
+    "321001": {
+      "location_l1": "3",
+      "location_l2": "4",
+      "location_l3": "3",
+      "location_l4": "5"
+    }
+  },
+  {
+    "410206": {
+      "location_l1": "1",
+      "location_l2": "3",
+      "location_l3": "1",
+      "location_l4": "3"
+    }
+  },
+  {
+    "414205": {
+      "location_l1": "3",
+      "location_l2": "3",
+      "location_l3": "2",
+      "location_l4": "5"
+    }
+  },
+  {
+    "413249": {
+      "location_l1": "2",
+      "location_l2": "4",
+      "location_l3": "4",
+      "location_l4": "3"
+    }
+  }
+]
